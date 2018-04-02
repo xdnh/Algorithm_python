@@ -1,7 +1,7 @@
 # Algorithm_python
 Learning Algorithm With Python
 
-大部分算法使用`**list**`来做底层存储数据的结构
+大部分算法使用**list**来做底层存储数据的结构
 
 # 算法:`/Src`
 
