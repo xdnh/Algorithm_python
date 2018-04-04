@@ -6,7 +6,7 @@ Learning Algorithm With Python
 # 算法:`/Src`
 
 ***
-## 排序算法：`/Src/sort`
+## 一、排序算法：`/Src/sort`
  1. [冒泡排序（`bubble_sort`)](https://raw.githubusercontent.com/xdnh/Algorithm_python/master/Src/sort/bubble_sort.py)
  2. [堆排序（`heap_sort`）](https://raw.githubusercontent.com/xdnh/Algorithm_python/master/Src/sort/heap_sort.py)
  
@@ -43,5 +43,6 @@ Learning Algorithm With Python
 > * [经典排序算法总结与实现](http://wuchong.me/blog/2014/02/09/algorithm-sort-summary/)
 > * [七种常见经典排序算法总结（C++实现）](http://yansu.org/2015/09/07/sort-algorithms.html)
 ***
-
+## 二、查找算法：`/Src/search.md`
+  1. [二分法计算有序数组中数字出现的次数](https://github.com/xdnh/Algorithm_python/blob/master/Src/search.md)
 
