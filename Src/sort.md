@@ -1,4 +1,4 @@
-## 排序算法：`/Src/sort`
+## 排序算法：[`/Src/sort`](https://github.com/xdnh/Algorithm_python/blob/master/Src/sort.md)
  1. [冒泡排序（`bubble_sort`)](https://raw.githubusercontent.com/xdnh/Algorithm_python/master/Src/sort/bubble_sort.py)
  2. [堆排序（`heap_sort`）](https://raw.githubusercontent.com/xdnh/Algorithm_python/master/Src/sort/heap_sort.py)
  
