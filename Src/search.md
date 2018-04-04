@@ -16,7 +16,7 @@ def findcountofnum(a, num, isleft):  # 查找指定数字在有序数组中出�
     pright = len(a) - 1
     #  二分查找区间[left, right]
     while pleft <= pright:
-        mid = (pleft + pright) >> 1
+        mid = pleft + ((pright - pleft) >> 1)  # 防止溢出，移位也更高效。同时，每次循环都需要更新
         if a[mid] < num:  # 后半段查找
             pleft = mid + 1
         elif a[mid] > num:  # 前半段查找
