@@ -6,7 +6,7 @@ Learning Algorithm With Python
 # 算法:`/Src`
 
 ***
-## 一、排序算法：`/Src/sort.md`
+## 一、排序算法：[`/Src/sort.md`](https://github.com/xdnh/Algorithm_python/blob/master/Src/sort.md)
  >[**排序算法总结**](https://github.com/xdnh/Algorithm_python/blob/master/Src/sort.md)
  1. [冒泡排序（`bubble_sort`)](https://raw.githubusercontent.com/xdnh/Algorithm_python/master/Src/sort/bubble_sort.py)
  2. [堆排序（`heap_sort`）](https://raw.githubusercontent.com/xdnh/Algorithm_python/master/Src/sort/heap_sort.py)
@@ -16,7 +16,7 @@ Learning Algorithm With Python
  6. [选择排序(`select_sort`)](https://github.com/xdnh/Algorithm_python/blob/master/Src/sort/select_sort.py)
  7. [希尔排序(`shell_sort`)](https://raw.githubusercontent.com/xdnh/Algorithm_python/master/Src/sort/shell_sort.py)
 ***
-## 二、查找算法：`/Src/search.md`
+## 二、查找算法：[`/Src/search.md`](https://github.com/xdnh/Algorithm_python/blob/master/Src/search.md)
  >[**排序算法总结**](https://github.com/xdnh/Algorithm_python/blob/master/Src/search.md)
  1. [二分法计算有序数组中数字出现的次数](https://github.com/xdnh/Algorithm_python/blob/master/Src/search.md)
 
