@@ -17,6 +17,6 @@ Learning Algorithm With Python
  7. [希尔排序(`shell_sort`)](https://raw.githubusercontent.com/xdnh/Algorithm_python/master/Src/sort/shell_sort.py)
 ***
 ## 二、查找算法：[`/Src/search.md`](https://github.com/xdnh/Algorithm_python/blob/master/Src/search.md)
- >[**排序算法总结**](https://github.com/xdnh/Algorithm_python/blob/master/Src/search.md)
+ >[**查找算法总结**](https://github.com/xdnh/Algorithm_python/blob/master/Src/search.md)
  1. [二分法计算有序数组中数字出现的次数](https://github.com/xdnh/Algorithm_python/blob/master/Src/search.md)
  2. [数组中出现次数超过一半的数字](https://github.com/xdnh/Algorithm_python/blob/master/Src/search.md)
