@@ -20,3 +20,7 @@ Learning Algorithm With Python
  >[**查找算法总结**](https://github.com/xdnh/Algorithm_python/blob/master/Src/search.md)
  1. [二分法计算有序数组中数字出现的次数](https://github.com/xdnh/Algorithm_python/blob/master/Src/search.md)
  2. [数组中出现次数超过一半的数字](https://github.com/xdnh/Algorithm_python/blob/master/Src/search.md)
+ 
+## 三、动态规划
+1. [最长公共子序列](https://github.com/xdnh/Algorithm_python/blob/master/Src/LCS(LongestCommonSubsequence).md)
+2. [绝地求生捡装备](https://github.com/xdnh/Algorithm_python/blob/master/Src/juedipickequipment.md)
