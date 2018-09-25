@@ -24,3 +24,5 @@ Learning Algorithm With Python
 ## 三、动态规划
 1. [最长公共子序列](https://github.com/xdnh/Algorithm_python/blob/master/Src/LCS(LongestCommonSubsequence).md)
 2. [绝地求生捡装备](https://github.com/xdnh/Algorithm_python/blob/master/Src/juedipickequipment.md)
+## 四、树
+1. [实现二叉树和它的七种遍历](https://github.com/xdnh/Algorithm_python/blob/master/Src/python%E5%AE%9E%E7%8E%B0%E4%BA%8C%E5%8F%89%E6%A0%91%E5%92%8C%E5%AE%83%E7%9A%84%E4%B8%83%E7%A7%8D%E9%81%8D%E5%8E%86.md)
